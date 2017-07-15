@@ -12,6 +12,13 @@ https://gitlab.com/xCuzImPro/DiscordBot_GameBot/
 https://github.com/xCuzImPro/DiscordBot_GameBot/
 https://cuzimpr0.visualstudio.com/DiscordBot_GameBot
 
+Eng:
+I would like to see a bot of the online time of Discord users in certain games. Once a game is detected, all online users of the discord are assigned to groups that are currently playing the same game. When a player stops playing his game, he is removed from the group. If no users are in a group, the group is deleted. To do this you want an adminpanel, where you can see statistics about the game time of each user.
+
+Ger:
+ich möchte einen Bot der die Onlinezeit von Discord Usern in bestimmten Spielen erfasst. Sobald ein Spiel erkannt wird, werden alle online Nutzer des Discords in Gruppen zugeordnet, die aktuell das gleiche Spiel spielen. Wenn ein Spieler aufhört sein Spiel zu spielen, wird er aus der Gruppe entfernt. Wenn keine Nutzer mehr in einer Gruppe sind wird die Gruppe gelöscht. Dazu willst du einen Adminpanel, wo man u.a. Statistiken über die Spielzeit der einzelnen Nutzer sieht.
+
+
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
